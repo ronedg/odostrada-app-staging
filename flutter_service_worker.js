@@ -3,11 +3,11 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"flutter_bootstrap.js": "d4063102b3181475b4ed018c36d555d7",
-"version.json": "deb0afc51e43fed66658a5d32e988417",
+const RESOURCES = {"flutter_bootstrap.js": "f6d6e8b91959c9af408b33dea20b4178",
+"version.json": "b1de9b838eccc4df43e7d4f500d1891d",
 "index.html": "50acbd3e25ecf85606b7d08984d32139",
 "/": "50acbd3e25ecf85606b7d08984d32139",
-"main.dart.js": "7c082d931f60d1532b533c93a7dd6726",
+"main.dart.js": "c8366d78f0e69808d65053c1b904a260",
 "sqlite3.wasm": "fa7637a49a0e434f2a98f9981856d118",
 "flutter.js": "76f08d47ff9f5715220992f993002504",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
@@ -24,7 +24,7 @@ const RESOURCES = {"flutter_bootstrap.js": "d4063102b3181475b4ed018c36d555d7",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "33b7d9392238c04c131b6ce224e13711",
 "assets/shaders/ink_sparkle.frag": "ecc85a2e95f5e9f53123dcaf8cb9b6ce",
 "assets/AssetManifest.bin": "e0402611f148f988bcdab7dc3a177bda",
-"assets/fonts/MaterialIcons-Regular.otf": "238c27437d57fc331fa94ad8e783a187",
+"assets/fonts/MaterialIcons-Regular.otf": "226754ca4afc4f8ccd4129675e815b0d",
 "assets/assets/vehicles/suv.svg": "58f0fdbdb67b2691b787bd9f95e36406",
 "assets/assets/vehicles/jeep.svg": "d135efb49d82bbc33cdea38a3dd4a388",
 "assets/assets/vehicles/pickup.svg": "4de057eecf384fb99aac9a44c2c0546f",
