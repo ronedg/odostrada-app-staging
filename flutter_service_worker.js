@@ -3,11 +3,11 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"flutter_bootstrap.js": "1e744195b63dac7eb49b17355b87503b",
+const RESOURCES = {"flutter_bootstrap.js": "35756da712a1e0f077202232398e3755",
 "version.json": "b1de9b838eccc4df43e7d4f500d1891d",
 "index.html": "9298300fee2da8e1599f3e97c215efae",
 "/": "9298300fee2da8e1599f3e97c215efae",
-"main.dart.js": "aab6651df1c613bff9ca502b5f46677f",
+"main.dart.js": "32b3153fac0fa574d4d580ecd88a2631",
 "sqlite3.wasm": "fa7637a49a0e434f2a98f9981856d118",
 "flutter.js": "76f08d47ff9f5715220992f993002504",
 "sqflite_sw.js": "b0331a8a9100e877c5597b97ec1801fa",
@@ -33,7 +33,6 @@ const RESOURCES = {"flutter_bootstrap.js": "1e744195b63dac7eb49b17355b87503b",
 "vendor/tesseract/tesseract.min.js": "762c42567bee631741908f3541ebf1c2",
 "vendor/tesseract/worker.min.js": "65249fe45d712ea365c37080f19904a2",
 "vendor/tesseract/lang/eng.traineddata": "d1be414fbb296b3ad777bfca655e194e",
-"vendor/tesseract/lang/eng.traineddata.gz.disabled": "43e817f9db6a06e8720dc33d966f58be",
 "vendor/tesseract/tesseract-core-simd.wasm": "005d56be6c15cd44568e87f6e13be7c4",
 "vendor/tesseract/tesseract-core-simd.wasm.js": "d868933076b19e6abc92e6469eb16eda",
 "canvaskit/skwasm_st.js": "d1326ceef381ad382ab492ba5d96f04d",
